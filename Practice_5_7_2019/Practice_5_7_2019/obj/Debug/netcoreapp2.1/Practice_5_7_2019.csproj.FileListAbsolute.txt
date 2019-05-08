@@ -1,0 +1,11 @@
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\bin\Debug\netcoreapp2.1\Practice_5_7_2019.deps.json
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\bin\Debug\netcoreapp2.1\Practice_5_7_2019.runtimeconfig.json
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\bin\Debug\netcoreapp2.1\Practice_5_7_2019.runtimeconfig.dev.json
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\bin\Debug\netcoreapp2.1\Practice_5_7_2019.dll
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\bin\Debug\netcoreapp2.1\Practice_5_7_2019.pdb
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\obj\Debug\netcoreapp2.1\Practice_5_7_2019.csprojAssemblyReference.cache
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\obj\Debug\netcoreapp2.1\Practice_5_7_2019.csproj.CoreCompileInputs.cache
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\obj\Debug\netcoreapp2.1\Practice_5_7_2019.AssemblyInfoInputs.cache
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\obj\Debug\netcoreapp2.1\Practice_5_7_2019.AssemblyInfo.cs
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\obj\Debug\netcoreapp2.1\Practice_5_7_2019.dll
+C:\Users\Callista\source\repos\Practice_5_7_2019\Practice_5_7_2019\obj\Debug\netcoreapp2.1\Practice_5_7_2019.pdb
